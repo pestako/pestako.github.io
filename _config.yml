@@ -169,7 +169,7 @@ footer-hover-col: "#0085A1"
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "G-5QPD586NPH"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -247,7 +247,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Seoul, Korea"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
